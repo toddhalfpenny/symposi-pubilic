@@ -1,0 +1,7 @@
+{
+  "name": "symposi-public",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
